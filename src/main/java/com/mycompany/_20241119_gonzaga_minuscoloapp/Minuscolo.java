@@ -21,7 +21,7 @@ public class Minuscolo {
        
       for (int x = 0; x < stringa.length(); x++){
           
-          minuscolo[x] = stringa.charAt(x);
+          
           
       }
        
